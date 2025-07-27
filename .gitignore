@@ -1,0 +1,80 @@
+# === Compiled Object Files ===
+*.o
+*.obj
+*.lo
+*.la
+*.al
+
+# === Compiled Dynamic Libraries ===
+*.so
+*.dylib
+*.dll
+
+# === Compiled Static Libraries ===
+*.a
+*.lib
+
+# === Executable Files ===
+*.exe
+*.out
+*.app
+*.run
+
+# === Debug/Crash Files ===
+core
+*.stackdump
+
+# === Backup & Temporary Files ===
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+
+# === VS Code ===
+.vscode/
+*.code-workspace
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Node.js ===
+node_modules/
+*.log
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+Icon?
+
+# === CMake / Build Tools ===
+build/
+cmake-build*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# === Logs ===
+*.log
+*.trace
+*.pid
+
+# === Other IDEs (optional safety) ===
+.idea/
+*.iml
+
+# === Misc ===
+*.env
+*.csv
+*.sqlite

@@ -43,3 +43,5 @@ int main() {
 }
 
 // binary search - works on monotonic functions
+// pivot == 0 => sorted array & no rotation (edge case)
+// O(log(n))

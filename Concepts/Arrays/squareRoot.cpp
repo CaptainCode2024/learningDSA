@@ -2,7 +2,6 @@
 
 #include <iostream>
 using namespace std;
-#include <cmath>
 
 int sqrtInt(int x) {
             
@@ -72,7 +71,6 @@ int main() {
     int d; cout <<"Enter the decimal places: "; cin >>d;
 
     cout <<"Square Root: " <<sqrtDecimal(n, d) <<endl;
-
 
     return 0;
 }

@@ -3,7 +3,7 @@
  * Problem: 1148. Article Views I
  * Link: https://leetcode.com/problems/article-views-i/
  * Difficulty: Easy
- * Solved: 01-09-2025
+ * Solved: 02-09-2025
  *
  * Approach:
  * - Need authors who viewed their own articles → `author_id = viewer_id`

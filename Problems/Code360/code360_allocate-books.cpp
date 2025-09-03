@@ -3,6 +3,7 @@
  * Problem: Allocate Books
  * Link: https://www.naukri.com/code360/problems/allocate-books_1090540
  * Difficulty: Moderate
+ * Solved: 03-09-2025
  *
  * Approach:
  * - Apply binary search on possible answer range [max(arr), sum(arr)]

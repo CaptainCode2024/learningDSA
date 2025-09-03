@@ -3,6 +3,7 @@
  * Problem: 1378. Replace Employee ID With The Unique Identifier
  * Link: https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
  * Difficulty: Easy
+ * Solved: 03-09-2025
  *
  * Approach:
  * - Use LEFT JOIN between Employees and EmployeeUNI on `id`
